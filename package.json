@@ -1,0 +1,25 @@
+{
+  "name": "trip-finder-freerider",
+  "version": "0.1.0",
+  "description": "Hertz Freerider provider for adsa95/trip-finder",
+  "main": "FreeriderProvider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsa95/trip-finder-freerider.git"
+  },
+  "author": "Adam Sandström <adsa95@gmail.com> (www.adsa.se)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adsa95/trip-finder-freerider/issues"
+  },
+  "homepage": "https://github.com/adsa95/trip-finder-freerider#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "moment": "^2.17.1",
+    "request": "^2.80.0",
+    "trip-finder": "^0.1.0"
+  }
+}
